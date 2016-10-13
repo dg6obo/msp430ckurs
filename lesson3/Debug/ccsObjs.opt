@@ -1,0 +1,1 @@
+"./BCSplus_init.obj" "./CSL_init.obj" "./GPIO_init.obj" "./Grace_init.obj" "./InterruptVectors_init.obj" "./System_init.obj" "./Timer_A2_init.obj" "./WDTplus_init.obj" "./main.obj" "../lnk_msp430g2231.cmd" -llibc.a 
